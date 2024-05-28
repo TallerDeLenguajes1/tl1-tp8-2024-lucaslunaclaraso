@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Escritorio\Facultad Lucas\Taller 1\tps\TP8\TP8\bin\Debug\net8.0\TP8.exe
+C:\Users\lucas\OneDrive\Escritorio\Facultad Lucas\Taller 1\tps\TP8\TP8\bin\Debug\net8.0\TP8.deps.json
+C:\Users\lucas\OneDrive\Escritorio\Facultad Lucas\Taller 1\tps\TP8\TP8\bin\Debug\net8.0\TP8.runtimeconfig.json
+C:\Users\lucas\OneDrive\Escritorio\Facultad Lucas\Taller 1\tps\TP8\TP8\bin\Debug\net8.0\TP8.dll
+C:\Users\lucas\OneDrive\Escritorio\Facultad Lucas\Taller 1\tps\TP8\TP8\bin\Debug\net8.0\TP8.pdb
+C:\Users\lucas\OneDrive\Escritorio\Facultad Lucas\Taller 1\tps\TP8\TP8\obj\Debug\net8.0\TP8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Escritorio\Facultad Lucas\Taller 1\tps\TP8\TP8\obj\Debug\net8.0\TP8.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Escritorio\Facultad Lucas\Taller 1\tps\TP8\TP8\obj\Debug\net8.0\TP8.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Escritorio\Facultad Lucas\Taller 1\tps\TP8\TP8\obj\Debug\net8.0\TP8.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Escritorio\Facultad Lucas\Taller 1\tps\TP8\TP8\obj\Debug\net8.0\TP8.dll
+C:\Users\lucas\OneDrive\Escritorio\Facultad Lucas\Taller 1\tps\TP8\TP8\obj\Debug\net8.0\refint\TP8.dll
+C:\Users\lucas\OneDrive\Escritorio\Facultad Lucas\Taller 1\tps\TP8\TP8\obj\Debug\net8.0\TP8.pdb
+C:\Users\lucas\OneDrive\Escritorio\Facultad Lucas\Taller 1\tps\TP8\TP8\obj\Debug\net8.0\TP8.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Escritorio\Facultad Lucas\Taller 1\tps\TP8\TP8\obj\Debug\net8.0\ref\TP8.dll
